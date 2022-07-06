@@ -71,6 +71,3 @@ ApitButton.addEventListener('click', () => {
     ApiKey = enterApiKey();
     getAPI()
 })
-
-
-
